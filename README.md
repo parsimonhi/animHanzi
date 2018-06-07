@@ -3,6 +3,7 @@
 1) Description
 
 AnimHanzi is a set of tools to draw "animated" hanzi (chinese characters) that have the same look as in kanjiVG (japanese characters).
+Note : animHanzi is still under construction.
 
 To see a demo, go to http://gooo.free.fr/animHanzi/.
 
