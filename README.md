@@ -11,6 +11,7 @@ To see a demo, go to http://gooo.free.fr/animHanzi/.
 2) Related work
 
 kanjiVG:  https://github.com/KanjiVG/kanjivg.
+hanzivg: https://github.com/Connum/hanzivg
 
 3) License
 
